@@ -75,7 +75,6 @@
 
     const buildCSS = () => {
 
-
         const css = `
             .item-might-like-outer{
                 background-color: #f4f5f7;
